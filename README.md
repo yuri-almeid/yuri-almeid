@@ -1,4 +1,4 @@
-### Hi there, I'm Yuri 👋
+### Hi there, I'm [Yuri][pwebsite] 👋
 
 - 🔭 I’m currently working on a [Liberty Clube Website][website]!
 - 🌱 I’m currently learning Artificial Intelligence
@@ -13,7 +13,7 @@
 <br />
 ---
 
-
+[pwebsite]: https://www.yurialmeida.com/
 [website]: https://www.libertyclube.com.br/
 [instagram]: https://instagram.com/yuri.l.a
 [linkedin]: https://www.linkedin.com/in/yuri-almeida-62bb8b14a/
