@@ -1,9 +1,9 @@
 ### Hi there, I'm [Yuri][pwebsite] 👋
 
-- 🔭 I’m currently working on a [Liberty Clube Website][website]!
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate with other content creators and develop my skills
-- ⚡ Fun fact: I like to forge some knives
+- I’m currently working on a [Liberty Clube Website][website]!
+- I’m currently learning Artificial Intelligence
+- I’m looking to collaborate with other content creators and develop my skills
+
 
 ### Connect with me:
 
@@ -11,6 +11,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ---
 
 [pwebsite]: https://www.yurialmeida.com/
