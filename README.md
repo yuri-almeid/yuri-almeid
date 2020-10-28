@@ -15,6 +15,6 @@
 ---
 
 [pwebsite]: https://www.yurialmeida.com/
-[website]: https://www.libertyclube.com.br/
+[website]: https://github.com/yuri-almeid/Liberty-Clube
 [instagram]: https://instagram.com/yuri.l.a
 [linkedin]: https://www.linkedin.com/in/yuri-almeida-62bb8b14a/
