@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yuri][pwebsite] 👋
 
-- I’m currently working on a [Liberty Clube Website][website]!
+
 - I’m currently learning Artificial Intelligence
 - I’m looking to collaborate with other content creators and develop my skills
 
