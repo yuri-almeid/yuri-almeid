@@ -12,6 +12,9 @@
 
 <br />
 
+
+[![card](https://github-readme-stats.vercel.app/api?username=yuri-almeid&theme=default)](https://github.com/yuri-almeid/)
+
 ---
 
 [pwebsite]: https://www.yurialmeida.com/
