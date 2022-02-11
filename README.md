@@ -4,6 +4,9 @@
 - I’m currently working on apache Kafka
 - I’m looking to collaborate with other content creators and develop my skills
 
+
+<br />
+
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuri-almeid&show_icons=true&theme=dark&line_height=18" alt="**Yuri Almeida** github stats"/>
 </a>
