@@ -1,4 +1,4 @@
-### Hi there, I'm [Yuri][pwebsite] 👋
+### Hi there, I'm Yuri 👋
 
 
 - I’m currently working on apache Kafka
@@ -20,7 +20,7 @@
 
 ---
 
-[pwebsite]: https://www.yurialmeida.com/
+
 [website]: https://github.com/yuri-almeid/Liberty-Clube
 [instagram]: https://instagram.com/yuri.l.a
 [linkedin]: https://www.linkedin.com/in/yuri-almeida-62bb8b14a/
